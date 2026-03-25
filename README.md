@@ -92,7 +92,3 @@ Approximately 1–2 hours
 
 - Bootstrap Official Documentation
 - UI design inspirations
-- ChatGPT assistance
-
-👨‍💻 Developed By
-Santhosh Kumar Polisetty
