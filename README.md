@@ -60,8 +60,10 @@ The main objective of this project is to demonstrate:
 - Netlify
 
 📂 Project Structure
+
 santhosh/
-├── README.md
+
+├── README.md 
 ├── index.html
 ├── contact.html
 └── services.html
