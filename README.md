@@ -69,16 +69,13 @@ The main goal of this project is to demonstrate:
 - Netlify
 
 ---
-
 📂 Project Structure
 
 /webwise-studio
-
- ├── index.html
-
- ├── services.html
-
- ├── contact.html
+│
+├── index.html
+├── services.html
+├── contact.html
 
 ---
 
