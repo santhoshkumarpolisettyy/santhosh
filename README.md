@@ -67,10 +67,10 @@ The main objective of this project is to demonstrate:
 
 
 /webwise-studio
-│
-├── index.html
-├── services.html
-├── contact.html
+
+├── index.html 
+├── services.html 
+├── contact.html 
 
 
 --------------------------------------------------
