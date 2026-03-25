@@ -63,10 +63,10 @@ The main objective of this project is to demonstrate:
 
 --------------------------------------------------
 
-📂 Project Structure  
+📂 Project Structure
 
 webwise-studio/
-│
+
 ├── index.html
 ├── services.html
 ├── contact.html
