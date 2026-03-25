@@ -61,12 +61,11 @@ The main objective of this project is to demonstrate:
 
 📂 Project Structure
 
-santhosh/
-
-├── README.md 
-├── index.html
-├── contact.html
-└── services.html
+santhosh/.                                       
+├── README.md                                   
+├── index.html.                                  
+├── contact.html.                                
+└── services.html.                                  
 
 🌐 Live Demo
 👉 https://zippy-hamster-2eae84.netlify.app/
