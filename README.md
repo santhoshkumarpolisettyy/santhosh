@@ -52,9 +52,9 @@ Bootstrap components used:
 📂 Project Structure
 
 /webwise-studio
-├── index.html        → Home page
-├── services.html     → Services page
-├── contact.html      → Contact page
+├── index.html        
+├── services.html    
+├── contact.html      
 
 ---
 
