@@ -67,9 +67,9 @@ The main objective of this project is to demonstrate:
 
 webwise-studio/
 
-├── index.html
-├── services.html
-├── contact.html
+├── index.html      (Home Page)
+├── services.html   (Services Page)
+├── contact.html    (Contact Page)
 --------------------------------------------------
 
 🌐 Live Demo  
