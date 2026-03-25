@@ -62,14 +62,10 @@ The main objective of this project is to demonstrate:
 - Netlify  
 
 --------------------------------------------------
-
-📂 Project Structure
-
 webwise-studio/
-
-├── index.html      (Home Page)
-├── services.html   (Services Page)
-├── contact.html    (Contact Page)
+├── index.html
+├── services.html
+├── contact.html
 --------------------------------------------------
 
 🌐 Live Demo  
